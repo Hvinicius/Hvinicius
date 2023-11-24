@@ -1,7 +1,7 @@
 ### Hi! I'm Hugo Vinicius 
 
-- 🔭 I'm currently working on robot programming CNC
-- 🌱 I’m currently learning Systems Analysis and Development
+- 🔭 I work with systems development, using Fluter, JavaScript, Python, Qt and SQL languages.
+- 🌱 Graduated in Systems Analysis and Development
 
 
 <div align="center">
