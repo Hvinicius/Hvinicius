@@ -1,13 +1,12 @@
 ### Hi! I'm Hugo Vinicius 
 
-- 🔭 I work with systems development, using Fluter, JavaScript, Python, Qt and SQL languages.
+- 🔭 I work with information technology, more specifically with systems analysis and development, using the Flutter, Python, QT and SQL languages. 
 - 🌱 Graduated in Systems Analysis and Development
 
 
 <div align="center">
   <a href="https://github.com/hvinicius">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvinicius&layout=small&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
 </div>
   
   <div style="display: inline_block"><br>
